@@ -1,2 +1,2 @@
 # CSE444647
-This is going to be a machine learning project
+This is going to be a ML
